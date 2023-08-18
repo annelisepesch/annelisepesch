@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Annelise Pesch, PhD"
+  navbar:
+    background: secondary
+    left:
+      - text: "About"
+        file: about.qmd
+      - text: "Projects"
+        file: Projects.qmd
+      - text: "CV"
+        file: CV/Pesch_CV_20230727.pdf
+
+page-footer:
+    background: light
+    left: "Copyright 2022, Annelise Pesch"
+    right: 
+      - text: Google Scholar 
+        icon: google
+        href: https://scholar.google.com/citations?user=x_i49aEAAAAJ&hl=en
+        
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+reader-mode: TRUE

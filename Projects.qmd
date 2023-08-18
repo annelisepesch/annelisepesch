@@ -1,0 +1,73 @@
+---
+title: "Projects"
+editor: visual
+---
+
+# Playful Learning
+
+I work on several projects advancing a new scientific initiative called [*Playful Learning Landscapes*](https://playfullearninglandscapes.com/)*,* which aims to create playful learning opportunities for families and children in everyday spaces.
+
+**Papers:**
+
+-   **Pesch, A.**, Ochoa, K.D, Fletcher, K.K., Bermudez, V.N., Todaro, R., Salazar, J., Gibbs, H.M., Ahn, J., Bustamante, A.S., & Hirsh-Pasek, K. (2022). Reinventing the public square and early educational settings through culturally informed, community co-design: Playful Learning Landscapes. *Frontiers in Psychology - Educational Psychology, 13*, 7322.
+-   Hirsh-Pasek, K., Masters, A. S., Christie, S., Gibbs, H. M., Evans, N. S., Fletcher, K. K., **Pesch, A.**, Yang, H., Fan, W., Todaro, R. D., Golinkoff, R. M., & Xu, F. (2022). Where global science meets playful learning: Implications for home, school, and city planning \[White paper\]. The Lego Foundation and the Yidan Foundation. [www.learningthroughplay.com](www.learningthroughplay.com)
+-   Fletcher, K.K., **Pesch, A.**, Golinkoff, R.M., & Hirsh-Pasek, K. (revision under review). The Playful Learning Landscapes Initiative: A New Methodology for Co-Designing Experiential and Informal Learning Environments for Young Children. *British Journal of Developmental Psychology.*
+
+**Conference Presentations:**
+
+-   Ochoa, K.D., **Pesch, A.**, Bermudez, V.N., Salazar, J., Fletcher, K.K., Todaro, R.D., Gibbs, H., Ahn, J., Bustamante, A., & Hirsh-Pasek, K. (April, 2023). *Playful Learning Landscapes Reinvents Public Spaces Through Culturally-Informed, Community Co-design.* American Educational Research Association, Chicago, IL.
+-   **Pesch, A.**, Ochoa, K.D., Bermudez, V.N., Santana, E., Salazar, J., Ahn, J., Bustamante, A.S., & Hirsh-Pasek, K. (March, 2023). *Playful Learning Landscapes: Evaluating the impact of a community-focused, evidence-based intervention on Latine families' STEM-language and interaction-quality.* Poster presented at the Society for Research in Child Development, Salt Lake City, UT.
+-   Fletcher, K.K., **Pesch, A.**, Wright, C., Abdurokhmonova, G., & Hirsh-Pasek, K. (March, 2023). *Playful Learning as a Robust, Adaptable, Culturally Relevant Pedagogy to Foster Children's 21st Century Skills.* Society for Research in Child Development, Salt Lake City, UT.
+-   Ochoa, K.D., Sedas, M., Bermudez, V.N., Salazar, J., Belgrave, A., **Pesch, A.**, Hirsh-Pasek, K., Ahn, J., & Bustamante, A.S. (March, 2023). *Playful and Cultural Learning at the Grocery Store: Qualitative Analysis of Latine Families' Interactions.* Society for Research in Child Development, Salt Lake City, UT.
+-   Fletcher, K.K., Gibbs, H., Todaro, R.D., **Pesch, A.**, & Hirsh-Pasek, K. (July, 2022). *Transforming Early Play and Learning Through Playful Learning Landscapes.* International Congress of Infant Studies, Ottawa, Canada.
+
+# Trust in Testimony
+
+Children learn a wealth of information from trusted sources in their lives, including caregivers, teachers, peers, and internet sources. I conduct experimental research investigating how preschoolers' trust in testimony is impacted by a variety of speaker characteristics and behaviors. I have explored how children's trust in teachers impacts learning in classroom settings.
+
+**Papers:**
+
+-   **Pesch, A.**, Ridge, K. E., Suárez, S., McMyler, B., & Koenig, M. A. (2022). Evaluations of epistemic and practical reasons for belief in a predominately White, US sample of preschoolers. *Journal of Experimental Child Psychology, 223,* 105499.
+-   **Pesch, A.**, & Koenig, M. A. (2021). Trust Matters: Measuring and identifying a role for epistemic and interpersonal trust in preschoolers' learning from teachers. *Early Education and Development,* 1-26.
+-   Li, P. H., **Pesch, A.**, Koenig, M. A. (2020). The sense of obligation in children's testimonial learning. *Behavioral and Brain Sciences*, 43.
+-   **Pesch, A.**, & Koenig, M. A. (2018). Varieties of trust in preschoolers' learning and practical decisions. *PLOS One, 13*(8).
+-   **Pesch, A.,** Suárez, S., & Koenig, M. A. (2017). Trusting Others: Shared reality in testimonial learning. *Current Opinion in Psychology, 23,* 38-41.
+
+**Book Chapters:**
+
+-   DeAngelis, E., Glaspie, N., Bisla, I., **Pesch, A.**, & Koenig, M. A. (in press). Trust in testimony: acquiring knowledge and developing social understanding. To appear in K. J. Rotenberg (Eds.), *The Handbook of Trust and Social Psychology.* Edward Elgar Publishing Limited.
+-   Ridge, K. E., **Pesch, A.**, Suárez, S., & Koenig, M. A. (2018). Insights into children's testimonial reasoning. In P. Ganea and M. Saylor (Eds.), *Language and Concept Development from Infancy Through Childhood: Social Motivation, Cognition, and Linguistic Mechanisms of Learning.* New York, NY: Springer.
+
+**Conference Presentations:**
+
+-   Glaspie, N., Bisla, I., Li., P.H., **Pesch, A.,** Koenig, M.A. (March, 2023). *Examining the influence of children's theory of mind on selective trust decisions.* Poster presented at the Society for Research in Child Development, Salt Lake City, UT.
+-   **Pesch, A.**, & Koenig, M.A. (April, 2021). *Trust Matters: measuring children's epistemic and interpersonal trust in teachers.* Society for Research in Child Development, Minneapolis, MN.
+-   Li, P.H., **Pesch, A.**, Ridge, K.E., Cicchetti, D., Koenig, M.A., & Rogosh, F. (April, 2021). *Trust, Maltreatment, and Socio-cognitive Abilities: Individual Differences in Children's Acceptance of Conflicting Claims.* Poster presented at the Society for Research in Child Development, Minneapolis, MN.
+-   **Pesch, A.**, Li, P.H., Ridge, K.E., Cicchetti, D., Koenig, M.A. (October, 2019). *An examination of how individual differences in parent authoritarian values and economic experiences impact 3-year-olds' inferences about speakers.* Cognitive Development Society, Louisville, KY.
+-   Li, P.H., **Pesch, A.**, Koenig, M.A. (March, 2019). *Children's Selective Trust: Understanding Evidential Reasons, Discovering Interpersonal Reasons.* Society for Research in Child Development, Baltimore, MD.
+-   **Pesch, A.**, Varhol, A.R., & Koenig, M.A. (October, 2018). *How Epistemic and Moral Character Influence Children's Judgments and Memory.* Poster presented at the Society for Research in Child Development, Philadelphia, PA.
+-   Suárez, S., **Pesch, A.**, McMyler, B., Ridge, K.E., & Koenig, M.A. (July, 2018). *What individual differences in children's social learning can tell us about the nature and development of authoritarian values.* Society for Philosophy and Psychology, Ann Arbor, MI.
+-   **Pesch, A.**, Van de Vandervoort, J., Varhol, A.R., Hamlin, K., & Koenig, M.A. (July, 2018). *Examining the scope of young children's epistemic and moral evaluations.* Poster presented at the Society for Philosophy and Psychology, Ann Arbor, MI.
+-   Ridge, K.E., **Pesch, A.**, McMyler, B., & Koenig, M.A. (July, 2018). *Reasons to believe: Children's evaluations of epistemic and practical reasons.* Poster presented at the Society for Philosophy and Psychology, Ann Arbor, MI.
+-   **Pesch, A.**, Low, N., & Koenig, M.A. (October, 2017). *Does the Speech Act Matter? An Examination of How Promises and Tellings Influence Preschoolers' Epistemic and Practical Decisions.* Poster presented at the Cognitive Development Society, Portland, OR.
+-   Varhol, A.R., **Pesch, A.**, Hamlin, K., & Koenig, M.A. (October, 2017). *Moral and Epistemic Agents: Infant Evaluations of Ignorant and Withholding Agents.* Poster presented at the Cognitive Development Society, Portland, OR.
+-   **Pesch, A.**, & Koenig, M.A. (June, 2017). *Varieties of trust in preschoolers' learning and practical decisions.* Society for Philosophy and Psychology, Baltimore, MD.
+-   Huffer-Kiesow, L., **Pesch, A.**, Suárez, S., Hetherington, C., & Koenig, M.A. (April, 2017). *Effects of Epistemic and Moral Behavior on Children's Learning and Practical Decisions.* Poster presented at the Society for Research in Child Development, Austin, TX.
+-   Ridge, K., Suárez, S., McMyler, B., **Pesch, A.**, & Koenig, M.A. (April, 2017). *The will to believe: children distinguish between practical and epistemic reasons for belief.* Poster presented at the Society for Research in Child Development, Austin, TX.
+
+# Theory of Mind and Executive Functioning
+
+The preschool years are a time of rapid growth in children's social cognitive development, including theory of mind and executive functioning skills. When children acquire a Theory of Mind, they achieve new capabilities to think about the mental states of others (e.g., beliefs, desires, intentions). Executive functioning skills provide children with opportunities to exercise inhibitory control, cognitive flexibility, and self-regulation. Projects of mine examine children's acquisiton of a representational theory of mind and the ways in which theory of mind and EF are related.
+
+**Papers:**
+
+-   Fabricius, W.V., Gonzales, C.R., **Pesch, A.**, Weimer, A.A. (2023). Perceptual Access Reasoning: What are the alternatives? *Cognitive Development, 66*, 101306.
+-   Fabricius, W.V., Gonzales, C.R., **Pesch, A**., Carroll, K., Weimer, A.A., Pugliese, J., Bolnick, R.R., Kupfer, A., Eisenberg, N., & Spinrad, T. (2021). Perceptual Access Reasoning (PAR) in Developing a Representational Theory of Mind. *Monographs of the Society for Research in Child Development, 86*(3), 7-154.
+-   **Pesch, A.**, Semenov, A.D., & Carlson, S.M. (2020). The path to fully representational Theory of Mind: Conceptual, Executive, and Pragmatic Challenges. *Frontiers in Psychology - Cognitive Science, 11*, 3020.
+
+**Conference Presentations:**
+
+-   **Pesch, A.**, Semenov, A., & Carlson, S.M. (October, 2017). *Does Working Memory Predict Performance on 3- and 4-option False Belief Tasks?* Poster presented at the Cognitive Development Society, Portland, OR.
+-   Gonzales, C.R., Fabricius, W.V., **Pesch, A.**, Swift-Honor, J., & Woolley, B. (October, 2015). *The Role of Introspection in Children's Theory of Mind Development.* Poster presented at Cognitive Development Society, Columbus, OH.
+-   Gonzales, C.R., **Pesch, A.**, & Fabricius, W.V. (February, 2015). *Limits on Children's Understanding of Mental Representations using Modified Three-option False Belief Tasks.* Poster presented at the Society for Research in Child Development, Philadelphia, PA.
+-   Gonzales, C.R., Fabricius, W.V., **Pesch, A.**, Gardiner, T., Woods, O., & Swanson, J. (October, 2013). *Four-Year-Olds' Performance on 3-Alternative False Belief Tasks: Evidence for Perceptual Access Reasoning.* Poster presented at the Biennial Meeting of the Cognitive Development Society, Memphis, TN.
