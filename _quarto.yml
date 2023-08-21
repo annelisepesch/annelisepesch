@@ -9,14 +9,20 @@ website:
     left:
       - text: "About"
         file: about.qmd
-      - text: "Projects"
-        file: Projects.qmd
+      - text: "Current Research Projects"
+        file: currentprojects.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Teaching"
+        file: teaching.qmd
       - text: "CV"
-        file: CV/Pesch_CV_20230727.pdf
+        file: CV/Pesch_CV_20230817.pdf
+      - text: "News"
+        file: news.qmd        
 
 page-footer:
     background: light
-    left: "Copyright 2022, Annelise Pesch"
+    left: "Copyright 2023, Annelise Pesch"
     right: 
       - text: Google Scholar 
         icon: google

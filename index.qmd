@@ -2,7 +2,7 @@
 title: "Annelise Pesch, PhD"
 image: images/annelise.jpg
 about:
-  template: trestles
+  template: jolla
   image-shape: round
   links:
    - icon: google scholar
@@ -10,24 +10,4 @@ about:
      href: https://scholar.google.com/citations?user=x_i49aEAAAAJ&hl=en 
 ---
 
-Annelise Pesch is a postdoctoral research fellow at Temple University. She is working with [Dr. Kathy Hirsh-Pasek](https://kathyhirshpasek.com/) on the expansion of Playful Learning Landscapes to Santa Ana, California in collaboration with Drs. [Andres Bustamante](https://www.faculty.uci.edu/profile.cfm?faculty_id=6446) and [June Ahn](https://ahnjune.com/) at the University of California, Irvine. Dr. Pesch has expertise in children's social cognitive development, social learning, learning through play, and community-based participatory research. Her research investigates mechanisms that support strong learning outcomes and academic success for pre-kindergarten and elementary aged children. Her work explores how to support positive learning and socio-emotional skills as adults and children interact in formal and informal learning environments, with a specific focus on the role that trust plays in fostering high-quality interactions and learning outcomes. She aims to use her work to inform policy and practice. Dr. Pesch holds a Ph.D. in Developmental Psychology from the University of Minnesota's Institute of Child Development, a B.A. in Philosophy from Arizona State University, and a B.S. in Pyschology from Arizona State University.
-
-## [Education]{.underline}
-
-**University of Minnesota** \| Minneapolis, MN
-
-Ph.D. in Developmental Psychology \| 2020
-
-**Arizona State University** \| Tempe, AZ
-
-B.A. in Philosophy \| 2014
-
-**Arizona State University** \| Tempe, AZ
-
-B.S. in Psychology \| 2014
-
-## [Experience]{.underline}
-
-**Temple University** \| Postdoctoral Research Fellow \| 2020 - present
-
-**Arizona State University** \| Faculty Associate \| 2020 - 2021
+I am a developmental scientist studying social cognitive development in early childhood. I’m currently a postdoctoral research fellow in the Department of Psychology and Neuroscience at Temple University where I work on several research projects that aim to translate developmental research to practice in culturally responsive ways. My research builds on our current understanding of social-cognitive development and seeks to advance the field using community-based participatory research practices.
