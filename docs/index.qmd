@@ -1,0 +1,13 @@
+---
+title: "Annelise Pesch, PhD"
+image: images/annelise.jpg
+about:
+  template: jolla
+  image-shape: round
+  links:
+   - icon: google scholar
+     text: Google Scholar
+     href: https://scholar.google.com/citations?user=x_i49aEAAAAJ&hl=en 
+---
+
+I am a developmental scientist studying social and cognitive development in early childhood. Currently, I am a postdoctoral research fellow in the Department of Psychology and Neuroscience at Temple University. Prior to joining Temple University, I earned my PhD in Developmental Psychology from the University of Minnesota’s Institute of Child Development. I also hold a B.S. in Psychology and a B.A. in Philosophy from Arizona State University.

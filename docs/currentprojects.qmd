@@ -1,0 +1,10 @@
+---
+title: "Research Projects"
+editor: visual
+---
+
+**Playful learning landscapes in Santa Ana, CA:** With my collaborators at the University of California, Irvine, we are implementing playful learning landscapes in a predominately Spanish-speaking community in Santa Ana, CA. Using community-based participatory design and participatory action research practices, we co-created a series of playful installations with families that will be installed in several community spaces (parks, bus stops, and a grocery store) later this year. We are collecting observational and survey data to understand how the activities impact caregiver-child interactions and caregiver perceptions about play and learning.
+
+**Playful learning landscapes in early childcare**: I am implementing and evaluating the impact of Playful Learning Landscapes in early childcare. Activities were co-designed with educators and community members. We are investigating how the activities impact learning and classroom quality using individual student assessments, naturalistic observations, and teacher surveys.
+
+**Perceptions of Storytime.** We are investigating how interactions interrupted by technology (*technoference*) impact preschool-aged children's selective trust and learning. Findings will provide initial evidence regarding the impact of technology use during contingent social interactions.
