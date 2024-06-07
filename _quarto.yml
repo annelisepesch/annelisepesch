@@ -16,7 +16,7 @@ website:
       - text: "Teaching"
         file: teaching.qmd
       - text: "CV"
-        file: CV/Pesch_CV_20230817.pdf
+        file: CV/Pesch_CV_20240607.pdf
       - text: "News"
         file: news.qmd        
 
