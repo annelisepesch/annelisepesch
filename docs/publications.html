@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,8 +60,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -67,45 +75,47 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Annelise Pesch, PhD</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./currentprojects.html">
- <span class="menu-text">Current Research Projects</span></a>
+    <a class="nav-link" href="./currentprojects.html"> 
+<span class="menu-text">Current Research Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html">
- <span class="menu-text">Teaching</span></a>
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV/Pesch_CV_20230817.pdf">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./CV/Pesch_CV_20240607.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html">
- <span class="menu-text">News</span></a>
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -118,13 +128,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2023</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2022</a></li>
-  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2021</a></li>
-  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2020</a></li>
-  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2018</a></li>
-  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2017</a></li>
-  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">2016</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2024</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2023</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2022</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2021</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2020</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2018</a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">2017</a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7">2016</a></li>
   </ul>
 </nav>
     </div>
@@ -138,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -146,41 +157,51 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
+
 <section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">2023</h2>
+<h2 class="anchored" data-anchor-id="section">2024</h2>
+<p><strong>Pesch, A.</strong>, Hespos, S., &amp; Hirsh-Pasek, K. (in press). Playful Learning Landscapes: Encouraging intellectual and social risk in everyday spaces. To appear in <em>The Impact of Risk and Outdoor Play on Children’s Learning - Listening, Responding, and Acting on Collective Voices.</em></p>
+<p>Fletcher, K. K., Wright, C., <strong>Pesch, A.</strong>, Abdurokhmonova, G., &amp; Hirsh-Pasek, K. (in press). Playful Learning as a robust, adaptable, culturally relevant pedagogy to foster children’s 21st Century skills. <em>Journal of Children and Media.</em></p>
+<p>Fisch, S. M., Hirsh-Pasek, K., Abdurokhmonova, G., Davis, L., Fisch, N., Fish, S. R. D., Fletcher, K. K., <strong>Pesch, A.</strong>, Tomforde, J., Volpe, C., &amp; Wright, C. A. (in press). Developing methods for remote observation of hands-on problem solving among preschool children: Challenges and solutions. <em>Journal of Children and Media.</em></p>
+<p>Fisch, S. M., Fletcher, K. K., Abdurokhmonova, G., Fisch, N., Fisch, S. R. D., Jurist, M., Krestin, R., <strong>Pesch, A.</strong>, Seguì, I., Shulman, J., Silton, N., Tomforde, J., Volpe, C., Wright, C. A., &amp; Hirsh-Pasek, K. (in press). “I wonder, what if, let’s try”: Impact of Sesame Street’s Playful Learning curriculum on children’s problem solving. <em>Journal of Children and Media.</em></p>
+<p><strong>Pesch, A.,</strong> Todaro, R. D., Piper, D., Evans, N., Pasek, J., Golinkoff, R. M., &amp; Hirsh-Pasek, K. (2024). A bird’s eye view of phubbing: How adult observations of phubbing impact judgments, epistemic trust, and interpersonal trust. <em>Mobile Media and Communication.</em></p>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2023</h2>
 <p><strong>Pesch, A.,</strong> &amp; Hirsh-Pasek, K. (In press). Social-emotional development: When soft skills become the hard skills. OECD Publishing, Paris.</p>
 <p>DeAngelis, E., Glaspie, N., Bisla, I., <strong>Pesch, A.,</strong> &amp; Koenig, M. A. (in press). Understanding the vulnerability of testimony: Epistemic and interpersonal risks. To appear in K. J. Rotenberg (Eds.), <em>The Handbook of Trust and Social Psychology</em>. Edward Elgar Publishing Limited.</p>
 <p>Bermudez, V. N., Salazar, J., Garcia, L., Ochoa, K. D., <strong>Pesch, A</strong>., Roldan, W., Soto-Lara, W., Gomez, W., Rodriguez, R., Hirsh-Pasek, K., Ahn, J., &amp; Bustamante, A. S. (2023). Designing culturally situated playful environments for early STEM learning with a Latine community. <em>Early Childhood Research Quarterly,</em> 1-12. [<a href="https://www.sciencedirect.com/science/article/pii/S0885200623000807">online</a>]</p>
 <p>Fabricius, W. V., Gonzales, C. R., <strong>Pesch, A.</strong>, &amp; Weimer, A. A. (2023). Perceptual Access Reasoning: What are the alternatives? <em>Cognitive Development, 66,</em> 101306<em>.</em> [<a href="https://www.sciencedirect.com/science/article/pii/S0885201423000114">online</a>]</p>
 </section>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">2022</h2>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2022</h2>
 <p><strong>Pesch, A.,</strong> Ochoa, K. D, Fletcher, K., Bermudez, V. N., Todaro, R., Salazar, J., Gibbs, H. M., Ahn, J., Bustamante, A. S., &amp; Hirsh-Pasek, K. (2022). Reinventing the public square and early educational settings through culturally informed, community co-design: Playful Learning Landscapes. <em>Frontiers in Psychology - Educational Psychology, 13,</em> 7322<em>.</em> [<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.933320">online</a>]</p>
 <p><strong>Pesch, A.</strong>, Ridge, K. E., Suárez, S., McMyler, B., &amp; Koenig, M. A. (2022). Evaluations of epistemic and practical reasons for belief in a predominately White, US sample of preschoolers. <em>Journal of Experimental Child Psychology, 223</em>, 105499. [<a href="https://www.sciencedirect.com/science/article/pii/S002209652200128X">online</a>]</p>
 </section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2021</h2>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">2021</h2>
 <p><strong>Pesch, A.,</strong> &amp; Koenig, M. A. (2021). Trust Matters: Measuring and identifying a role for epistemic and interpersonal trust in preschoolers’ learning from teachers. <em>Early Education and Development,</em> 1-26<em>.</em> [<a href="https://www.tandfonline.com/doi/abs/10.1080/10409289.2021.1991729">online</a>]</p>
 <p>Fabricius, W. V., Gonzales, C.R., <strong>Pesch, A.,</strong> Carroll, K., Weimer, A. A., Pugliese, J., Bolnick, R. R., Kupfer, A., Eisenberg, N., &amp; Spinrad, T. (2021). Perceptual Access Reasoning (PAR) in Developing a Representational Theory of Mind. <em>Monographs of the Society for Research in Child Development, 86</em>(3), 7-154. [<a href="https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/mono.12432">online</a>]</p>
 </section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">2020</h2>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">2020</h2>
 <p><strong>Pesch, A.,</strong> Semenov, A. D., &amp; Carlson, S. M. (2020). The path to fully representational Theory of Mind: Conceptual, Executive, and Pragmatic Challenges. <em>Frontiers in Psychology - Cognitive Science, 11,</em> 3020. [<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.581117/full">online</a>]</p>
 <p>Li, P. H., <strong>Pesch, A.</strong>, Koenig, M. A. (2020). The sense of obligation in children’s testimonial learning. <em>Behavioral and Brain Sciences, 43.</em> [<a href="https://www.proquest.com/openview/1bff12c40b889608e59ebcc1e7ddd2e2/1?pq-origsite=gscholar&amp;cbl=47829">online</a>]</p>
 </section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">2018</h2>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">2018</h2>
 <p><strong>Pesch, A.,</strong> &amp; Koenig, M. A. (2018). Varieties of trust in preschoolers’ learning and practical decisions<em>. PLOS One, 13</em>(8). [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202506">online</a>]</p>
 <p>Ridge, K.E., <strong>Pesch, A</strong>., Suárez, S., &amp; Koenig, M.A.&nbsp;(2018). Insights into children’s testimonial reasoning. In P. Ganea and M. Saylor (Eds.), <em>Language and Concept Development from Infancy Through Childhood: Social Motivation, Cognition, and Linguistic Mechanisms of Learning</em>. New York, NY: Springer. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-77182-3_8">online</a>]</p>
 </section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">2017</h2>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">2017</h2>
 <p><strong>Pesch, A.,</strong> Suárez, S., &amp; Koenig, M. A. (2017). Trusting Others: Shared reality in testimonial learning. <em>Current Opinion in Psychology, 23</em>, 38-41<em>.</em> [<a href="https://www.sciencedirect.com/science/article/pii/S2352250X17302270">online</a>]</p>
 </section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">2016</h2>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">2016</h2>
 <p>Lin, A. R., Ettekal, A., Simpkins, S., Menjivar, C., Gaskin, E., &amp; <strong>Pesch, A.</strong> (2016). “They will post a law about playing soccer” and other ethnic/racial microaggressions in organized activities experienced by Mexican-Origin families. <em>Journal of Adolescent Research, 31,</em> 557-581. [<a href="https://journals.sagepub.com/doi/abs/10.1177/0743558415620670">online</a>]</p>
 
 
@@ -214,9 +235,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -252,10 +287,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -265,8 +317,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -278,9 +339,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -321,6 +618,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
