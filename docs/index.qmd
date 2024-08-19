@@ -1,6 +1,6 @@
 ---
 title: "Annelise Pesch, PhD"
-image: images/hi_res-50-Annelise Pesch_r1_01D_0042.jpg
+image: images/hi_res-50-Annelise Pesch_r1_01D_0042 copy.jpg
 about:
   template: jolla
   image-shape: round
